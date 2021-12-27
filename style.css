@@ -1,0 +1,22 @@
+.title1 {
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color: blue;
+  font-size: large;
+}
+
+.para1 {
+  color: red;
+  font-size: large;
+}
+
+.vege {
+  width: fit-content;
+  height: 150px;
+}
+
+.para2 {
+  color: green;
+  font-size: large;
+}
